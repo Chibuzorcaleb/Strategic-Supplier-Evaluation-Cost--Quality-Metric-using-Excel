@@ -1,0 +1,702 @@
+[
+  {
+    "Supplier ID": "VN-SUP-001",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-002",
+    "City": "Manila",
+    "Country": "Philippines",
+    "Latitude": 14.5995,
+    "Longitude": 120.9842
+  },
+  {
+    "Supplier ID": "VN-SUP-003",
+    "City": "Jakarta",
+    "Country": "Indonesia",
+    "Latitude": -6.2088,
+    "Longitude": 106.8456
+  },
+  {
+    "Supplier ID": "VN-SUP-004",
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.7563,
+    "Longitude": 100.5018
+  },
+  {
+    "Supplier ID": "VN-SUP-005",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-006",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-007",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-008",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-009",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-010",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-011",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-012",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-013",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-014",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-015",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-016",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-017",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-018",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-019",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-020",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-021",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-022",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-023",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-024",
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.7563,
+    "Longitude": 100.5018
+  },
+  {
+    "Supplier ID": "VN-SUP-025",
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.7563,
+    "Longitude": 100.5018
+  },
+  {
+    "Supplier ID": "VN-SUP-026",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-027",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-028",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-029",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-030",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-031",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-032",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-033",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-034",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-035",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-036",
+    "City": "Manila",
+    "Country": "Philippines",
+    "Latitude": 14.5995,
+    "Longitude": 120.9842
+  },
+  {
+    "Supplier ID": "VN-SUP-037",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-038",
+    "City": "Jakarta",
+    "Country": "Indonesia",
+    "Latitude": -6.2088,
+    "Longitude": 106.8456
+  },
+  {
+    "Supplier ID": "VN-SUP-039",
+    "City": "Jakarta",
+    "Country": "Indonesia",
+    "Latitude": -6.2088,
+    "Longitude": 106.8456
+  },
+  {
+    "Supplier ID": "VN-SUP-040",
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.7563,
+    "Longitude": 100.5018
+  },
+  {
+    "Supplier ID": "VN-SUP-041",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-042",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-043",
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.7563,
+    "Longitude": 100.5018
+  },
+  {
+    "Supplier ID": "VN-SUP-044",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-045",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-046",
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.7563,
+    "Longitude": 100.5018
+  },
+  {
+    "Supplier ID": "VN-SUP-047",
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.7563,
+    "Longitude": 100.5018
+  },
+  {
+    "Supplier ID": "VN-SUP-048",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-049",
+    "City": "Jakarta",
+    "Country": "Indonesia",
+    "Latitude": -6.2088,
+    "Longitude": 106.8456
+  },
+  {
+    "Supplier ID": "VN-SUP-050",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-051",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-052",
+    "City": "Jakarta",
+    "Country": "Indonesia",
+    "Latitude": -6.2088,
+    "Longitude": 106.8456
+  },
+  {
+    "Supplier ID": "VN-SUP-053",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-054",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-055",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-056",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-057",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-058",
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Latitude": 13.7563,
+    "Longitude": 100.5018
+  },
+  {
+    "Supplier ID": "VN-SUP-059",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-060",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-061",
+    "City": "Jakarta",
+    "Country": "Indonesia",
+    "Latitude": -6.2088,
+    "Longitude": 106.8456
+  },
+  {
+    "Supplier ID": "VN-SUP-062",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-063",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-064",
+    "City": "Manila",
+    "Country": "Philippines",
+    "Latitude": 14.5995,
+    "Longitude": 120.9842
+  },
+  {
+    "Supplier ID": "VN-SUP-065",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-066",
+    "City": "Manila",
+    "Country": "Philippines",
+    "Latitude": 14.5995,
+    "Longitude": 120.9842
+  },
+  {
+    "Supplier ID": "VN-SUP-067",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-068",
+    "City": "Jakarta",
+    "Country": "Indonesia",
+    "Latitude": -6.2088,
+    "Longitude": 106.8456
+  },
+  {
+    "Supplier ID": "VN-SUP-069",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-070",
+    "City": "Manila",
+    "Country": "Philippines",
+    "Latitude": 14.5995,
+    "Longitude": 120.9842
+  },
+  {
+    "Supplier ID": "VN-SUP-071",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-072",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-073",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  },
+  {
+    "Supplier ID": "VN-SUP-074",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-075",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-076",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-077",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-078",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-079",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-080",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-081",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-082",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-083",
+    "City": "Manila",
+    "Country": "Philippines",
+    "Latitude": 14.5995,
+    "Longitude": 120.9842
+  },
+  {
+    "Supplier ID": "VN-SUP-084",
+    "City": "Jakarta",
+    "Country": "Indonesia",
+    "Latitude": -6.2088,
+    "Longitude": 106.8456
+  },
+  {
+    "Supplier ID": "VN-SUP-085",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-086",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-087",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-088",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-089",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-090",
+    "City": "Manila",
+    "Country": "Philippines",
+    "Latitude": 14.5995,
+    "Longitude": 120.9842
+  },
+  {
+    "Supplier ID": "VN-SUP-091",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-092",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-093",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-094",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-095",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-096",
+    "City": "Da Nang",
+    "Country": "Vietnam",
+    "Latitude": 16.0471,
+    "Longitude": 108.2068
+  },
+  {
+    "Supplier ID": "VN-SUP-097",
+    "City": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Latitude": 3.139,
+    "Longitude": 101.6869
+  },
+  {
+    "Supplier ID": "VN-SUP-098",
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Latitude": 21.0285,
+    "Longitude": 105.8544
+  },
+  {
+    "Supplier ID": "VN-SUP-099",
+    "City": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Latitude": 10.7769,
+    "Longitude": 106.7009
+  },
+  {
+    "Supplier ID": "VN-SUP-100",
+    "City": "Phnom Penh",
+    "Country": "Cambodia",
+    "Latitude": 11.5564,
+    "Longitude": 104.9282
+  }
+]
